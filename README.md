@@ -1,4 +1,3 @@
-
 This project is a dice game built with React.js where we made use of various React.js and Javascript techniques to develop the game's logic,
 and we used some HTML and CSS on the game's interface.
 
