@@ -12,5 +12,5 @@ roll - If the player rolls a
 hold - The turn total is added to the player's score and it becomes the opponent's turn.
 You are playing against the computer. The red triangle indicates the current player. Hover over the pig to get the optimal decision.
 
-the multi-player game allows 2 players to play the pig game.
+the multi-player game allows 2 players to play the pig game....
 
