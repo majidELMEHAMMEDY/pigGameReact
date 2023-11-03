@@ -16,5 +16,5 @@ You are playing against the computer. The red triangle indicates the current pla
 
 
 # To Get started
-*npm install*
-*npm start*
+1- *npm install* <br>
+2- *npm start*
