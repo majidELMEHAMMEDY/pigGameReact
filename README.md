@@ -1,6 +1,8 @@
 
 This project is a dice game built with React.js where we made use of various React.js and Javascript techniques to develop the game's logic,
 and we used some HTML and CSS on the game's interface.
+<img width="1265" alt="Screenshot 2023-11-03 at 22 16 26" src="https://github.com/majidELMEHAMMEDY/ISI4ReactProject/assets/48968947/8568d510-0b1a-4008-8da9-5c2b87e102aa">
+
 
 # About the game
 
@@ -12,5 +14,7 @@ roll - If the player rolls a
 hold - The turn total is added to the player's score and it becomes the opponent's turn.
 You are playing against the computer. The red triangle indicates the current player. Hover over the pig to get the optimal decision.
 
-the multi-player game allows 2 players to play the pig game....
 
+# To Get started
+*npm install*
+*npm start*
